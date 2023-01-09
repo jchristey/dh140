@@ -2,7 +2,7 @@
 
 ## Jade Christey 
 
-## Bio
+### Bio
 
 I'm a senior Human Biology & Society major, Global Health and Digital Humanities minor from San Francisco. When I'm not in class I love playing rugby, cooking with my roommates and playing with my cat, Tofu. 
 
